@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AlignTechnology.BL\AlignTechnology.BL.csproj" />
+    <ProjectReference Include="..\AlignTechnology.Common\AlignTechnology.Common.csproj" />
+    <ProjectReference Include="..\AlignTechnology.Models\AlignTechnology.Models.csproj" />
+  </ItemGroup>
+
+
+</Project>
